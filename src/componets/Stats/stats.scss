@@ -1,0 +1,30 @@
+@import "../../styles/mixins.scss";
+.stats{
+    &__container{
+        display: grid;
+        grid-template-columns: repeat(auto-fit,minmax(15rem,1fr));
+        justify-content: space-between;
+        row-gap: 3rem;
+    }
+
+    h3{
+        color: var(--extra-color);
+        font-size: 3rem;
+    }
+
+    span{
+        color: #fff;
+        font-weight: 500;
+    }
+
+    &__card{
+        background: #432d92;
+        display: flex;
+        align-items: center;
+        gap:0.5rem;
+        padding: 3rem 2rem;
+        border-radius: 0.6rem;
+        width: 14rem;
+        margin-inline: auto;
+    }
+}
