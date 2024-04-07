@@ -98,7 +98,7 @@ export const portfolioData = [
   {
     id: 1,
     img: Portfolio1,
-    Link : "2aacademy.net",
+    Link : "https://2aacademy.net/",
     title: "E-learning Website",
     des : "E-learning website with html , css and js technolgy"
   },
