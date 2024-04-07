@@ -1,6 +1,6 @@
 import React from 'react'
 import "./About.scss";
-import Img from "../../assets/img.png"
+import Img from "../../assets/img.webp"
 const About = () => {
   return (
     <section className="about section-padding" id='about'>
