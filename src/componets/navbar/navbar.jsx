@@ -34,7 +34,7 @@ const Navbar = () => {
                     </ul>
                     <div className="navbar__icons">
                         <a href="https://github.com/YahiaAbukhalifa"><FaGithub/></a>
-                        <a href="www.linkedin.com/in/yahia-abukhalifa"><FaLinkedin/></a>
+                        <a href="https://www.linkedin.com/in/yahia-abukhalifa/"><FaLinkedin/></a>
                         <a href="https://www.youtube.com/channel/UCxYLVAidkEcGbud-bE7wExg"><FaYoutube/></a>
                         <a href="mailto:yehyaabukhalifa@gmail.com"><MdMail/></a>
                     </div>
