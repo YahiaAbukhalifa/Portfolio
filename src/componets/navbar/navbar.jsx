@@ -33,10 +33,10 @@ const Navbar = () => {
                         </li>
                     </ul>
                     <div className="navbar__icons">
-                        <a href="#"><FaGithub/></a>
-                        <a href="#"><FaLinkedin/></a>
-                        <a href="#"><FaYoutube/></a>
-                        <a href="#"><MdMail/></a>
+                        <a href="https://github.com/YahiaAbukhalifa"><FaGithub/></a>
+                        <a href="www.linkedin.com/in/yahia-abukhalifa"><FaLinkedin/></a>
+                        <a href="https://www.youtube.com/channel/UCxYLVAidkEcGbud-bE7wExg"><FaYoutube/></a>
+                        <a href="mailto:yehyaabukhalifa@gmail.com"><MdMail/></a>
                     </div>
                     <div className="navbar__menu" onClick={() => setShowNav(!showNav)}>
                         {showNav ? <AiOutlineClose /> : <AiOutlineMenu />}
