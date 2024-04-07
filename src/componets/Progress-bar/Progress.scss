@@ -1,18 +1,1 @@
-@import "../../styles/mixins.scss";
-
-.progress-bar-container {
-    position: fixed;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 5px; // Adjust height as needed
-    background-color: #ddd; // Customize background color
-    z-index: 999; // Ensure progress bar is visible over content
-  }
-  
-  .progress-bar {
-    height: 100%; // Match container height
-    background-color: var(--extra-color); // Customize progress bar color
-    transition: width 0.3s ease-in-out; // Smooth animation
-  }
-  
+@import "../../styles/mixins.scss";.progress-bar-container {position: fixed;top: 0;left: 0;width: 100%;height: 5px;// Adjust height as needed background-color: #ddd;// Customize background color z-index: 999;// Ensure progress bar is visible over content }.progress-bar {height: 100%;// Match container height background-color: var(--extra-color);// Customize progress bar color transition: width 0.3s ease-in-out;// Smooth animation }
