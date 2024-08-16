@@ -10,7 +10,7 @@ import Portfolio4 from "./assets/4.jpg";
 import Portfolio5 from "./assets/5.jpg";
 import Portfolio6 from "./assets/6.jpg";
 import Furniturestore from "./assets/furniturestore.jpg";
-import Portfolio6 from "./assets/Portfolio6.jpg";
+import Portfolio7 from "./assets/Portfolio6.jpg";
 
 
 
@@ -144,7 +144,7 @@ export const portfolioData = [
   },
     {
     id: 4,
-    img: Portfolio6,
+    img: Portfolio7,
     Link : "https://space-tourism-website-sage.vercel.app/",
     title: "Space tourism website",
     des : "Space tourism website by react js & SASS"
