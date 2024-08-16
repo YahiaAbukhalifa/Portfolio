@@ -9,7 +9,7 @@ import Portfolio3 from "./assets/3.jpg";
 import Portfolio4 from "./assets/4.jpg";
 import Portfolio5 from "./assets/5.jpg";
 import Portfolio6 from "./assets/6.jpg";
-import furniturestore from "./assets/furniturestore.jpg";
+import Furniturestore from "./assets/furniturestore.jpg";
 import Portfolio6 from "./assets/Portfolio6.jpg";
 
 
@@ -101,7 +101,7 @@ export const serviceData = [
 export const portfolioData = [
     {
     id: 1,
-    img: furniturestore,
+    img: Furniturestore,
     Link : "https://yahiaabukhalifa.github.io/Furniture-store/",
     title: "Furniture Store",
     des : "full funrniture store page by html , css & js"
