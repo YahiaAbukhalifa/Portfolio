@@ -9,6 +9,10 @@ import Portfolio3 from "./assets/3.jpg";
 import Portfolio4 from "./assets/4.jpg";
 import Portfolio5 from "./assets/5.jpg";
 import Portfolio6 from "./assets/6.jpg";
+import furniturestore from "./assets/furniturestore.jpg";
+import Portfolio6 from "./assets/Portfolio6.jpg";
+
+
 
 export const heroData = [
   {
